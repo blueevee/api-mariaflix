@@ -1,0 +1,11 @@
+# VSCode
+.vscode/settings.json
+
+__pycache__/
+
+# Environment
+.env
+venv/
+
+# BD connection
+connection.py
