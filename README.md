@@ -62,11 +62,11 @@ source venv/Scripts/activate
 ```
 3. Com a virtualenv ativa, instale rode: `pip install -r requirements.txt`
 
-4. Preecha no arquivo [connection.example.py](src\db\connection.example.py) suas configurações do banco de dados.
+4. Preecha no arquivo [connection.example.py](https://github.com/blueevee/api-mariaflix/blob/main/src/db/connection.example.py) suas configurações do banco de dados.
 
-5. Rode o arquivo [init.py](src\init.py) para criar e popular as tabelas: `python src/init.py`
+5. Rode o arquivo [init.py](https://github.com/blueevee/api-mariaflix/blob/main/src/init.py) para criar e popular as tabelas: `python src/init.py`
 
-6. Rode o arquivo [api.py](src\api.py) para iniciar o servidor e testar os endpoints: `python src/api.py`
+6. Rode o arquivo [api.py](https://github.com/blueevee/api-mariaflix/blob/main/src/api.py) para iniciar o servidor e testar os endpoints: `python src/api.py`
 
 
 # Endpoints  
