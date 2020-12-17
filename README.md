@@ -434,3 +434,12 @@ source venv/Scripts/activate
 ```py
 [01 , 02, 03 , 04 , 05, 06 , 07 , 08 , 09 , 10 , 11 , 12]
 ```   
+
+# Agradecimentos  
+Quero agradecer a todas as mulheres incríveis que conheci, todo o conhecimento adquirido e todas as risadas que foram possíveis graças ao MVCAD, espero um dia fazer pela comunidade tanto quanto vocês fazem.  
+> Vocês fazem a diferença    
+> Jéssica Alves  
+> Alini Ribeiro  
+> Priscila Power  
+> Luciane Tedesco  
+> Suzane Sant Ana  
